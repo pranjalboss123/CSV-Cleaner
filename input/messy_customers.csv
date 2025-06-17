@@ -1,0 +1,51 @@
+CustomerID,Name,Email,Phone,Country
+1,,john@example.COM,+911234567890,Indiia
+2,Jane Smith,jane.smith@gmailcom,+14155552671,United Stated
+3,John Doe,john@example.COM,+911234567890,India
+4,,Alex77@Hotmail.com,,Australa
+5,Anjali,,+33 1 23 45 67 89,Fraance
+6,Pranav Desai,pranavdesai@,9876543210,Bharat
+7,Sara Li,sara.li@example.com,+8613700000000,China
+8,Emily Zhang,,+8613900000000,Cnina
+9,Bob,,+44 7911 123456,United Kngdom
+10,Jane Smith,jane.smith@gmailcom,+14155552671,United Stated
+11,Alex Kumar,,+91 9876543210,Inda
+12,,mike.h@yahoocom,+61 4 1234 5678,Australlia
+13,Maria Garcia,maria@example,+34 612 345 678,Spian
+14,David Wilson,,+1 415 555 0123,United stats
+15,Sophie Chen,sophie.chen@hotmail,+86 138 0000 0000,Chnia
+16,Raj Patel,raj.patel@gmailcom,+91 98765 43210,Indya
+17,,anna.k@example.COM,+7 916 123-45-67,Russsia
+18,Mohammed Ali,mohammedgmail.com,+971 50 123 4567,UAe
+19,Lisa Wong,,+852 9123 4567,Hong Kon
+20,Tom Brown,tom@example..com,+44 7700 900123,UK
+21,Yuki Tanaka,yuki@,+81 80-1234-5678,Japn
+22,Carlos Silva,,+55 11 91234-5678,Brazl
+23,Emma Davis,emma.davis@yahoocom,+61 4 8765 4321,Australa
+24,,hans.m@example.COM,+49 170 1234567,Grmany
+25,Priya Singh,priyasingh@,+91 87654 32109,Bharat
+26,James Wilson,james@example,+1 408 555 0123,USA
+27,Liu Wei,,+86 139 1234 5678,Chinna
+28,Sarah Johnson,sarah.j@gmailcom,+1 650 555 0123,United Stated
+29,Ahmed Hassan,,+20 100 123 4567,Egyp
+30,Isabella Rossi,isabella@example,+39 312 345 6789,Itly
+31,,peter.k@yahoocom,+61 4 9876 5432,Australlia
+32,Kim Min-ji,kimminji@,+82 10-1234-5678,Korae
+33,Andre Santos,,+351 912 345 678,Portugl
+34,Nina Petrova,nina.p@example.COM,+7 495 123-45-67,Rusian
+35,Michael Chang,michael@gmailcom,+1 415 555 9876,United Stats
+36,,anna.l@example,+46 70 123 45 67,Swedn
+37,Ali Khan,ali.khan@,+92 300 1234567,Pakisan
+38,Marie Dubois,,+33 6 12 34 56 78,Frence
+39,Chris Wong,chriswong@example..com,+65 9123 4567,Singapre
+40,Fatima Al-Sayed,fatima@gmailcom,+973 3123 4567,Bahrin
+41,,marco.r@example.COM,+39 345 678 9012,Itally
+42,Eva Kowalski,eva@example,+48 512 345 678,Polnd
+43,Juan Martinez,,+34 623 456 789,Spian
+44,Aisha Patel,aisha.p@,+91 98765 43211,Inddia
+45,Thomas Anderson,thomas@yahoocom,+1 408 555 9876,United Stated
+46,,olga.s@example.COM,+380 50 123 4567,Ukrane
+47,Hassan Ahmed,hassan@example,+20 100 234 5678,Egyypt
+48,Lucy Chen,,+86 136 1234 5678,Chinna
+49,Viktor Kovac,viktor@gmailcom,+385 91 234 5678,Croata
+50,Maria Silva,maria.s@example,+351 923 456 789,Portugl

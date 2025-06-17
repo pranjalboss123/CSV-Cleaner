@@ -1,0 +1,32 @@
+Row 0 | Column: Name | Enrichment: Filled missing name → Alex Kumar
+Row 3 | Column: Name | Enrichment: Filled missing name → Sara Li
+Row 5 | Column: Country | Enrichment: Filled missing country → India
+Row 11 | Column: Name | Enrichment: Filled missing name → Alex Kumar
+Row 16 | Column: Name | Enrichment: Filled missing name → Alex Kumar
+Row 16 | Column: Country | Enrichment: Filled missing country → India
+Row 17 | Column: Country | Enrichment: Filled missing country → India
+Row 18 | Column: Country | Enrichment: Filled missing country → India
+Row 19 | Column: Country | Enrichment: Filled missing country → India
+Row 21 | Column: Country | Enrichment: Filled missing country → India
+Row 23 | Column: Name | Enrichment: Filled missing name → Alex Kumar
+Row 24 | Column: Country | Enrichment: Filled missing country → India
+Row 25 | Column: Country | Enrichment: Filled missing country → India
+Row 28 | Column: Country | Enrichment: Filled missing country → India
+Row 29 | Column: Country | Enrichment: Filled missing country → India
+Row 30 | Column: Name | Enrichment: Filled missing name → John Doe
+Row 31 | Column: Country | Enrichment: Filled missing country → India
+Row 32 | Column: Country | Enrichment: Filled missing country → India
+Row 33 | Column: Country | Enrichment: Filled missing country → India
+Row 35 | Column: Name | Enrichment: Filled missing name → Jane Smith
+Row 35 | Column: Country | Enrichment: Filled missing country → India
+Row 36 | Column: Country | Enrichment: Filled missing country → India
+Row 38 | Column: Country | Enrichment: Filled missing country → India
+Row 39 | Column: Country | Enrichment: Filled missing country → India
+Row 40 | Column: Name | Enrichment: Filled missing name → Alex Kumar
+Row 40 | Column: Country | Enrichment: Filled missing country → India
+Row 41 | Column: Country | Enrichment: Filled missing country → India
+Row 45 | Column: Name | Enrichment: Filled missing name → John Doe
+Row 45 | Column: Country | Enrichment: Filled missing country → India
+Row 46 | Column: Country | Enrichment: Filled missing country → India
+Row 48 | Column: Country | Enrichment: Filled missing country → India
+Row 49 | Column: Country | Enrichment: Filled missing country → India

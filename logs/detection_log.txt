@@ -1,0 +1,46 @@
+Row 0 | Column: Name | Issue: Missing name
+Row 3 | Column: Name | Issue: Missing name
+Row 4 | Column: Email | Issue: Missing or malformed email
+Row 7 | Column: Email | Issue: Missing or malformed email
+Row 8 | Column: Email | Issue: Missing or malformed email
+Row 10 | Column: Email | Issue: Missing or malformed email
+Row 11 | Column: Name | Issue: Missing name
+Row 13 | Column: Email | Issue: Missing or malformed email
+Row 16 | Column: Name | Issue: Missing name
+Row 17 | Column: Email | Issue: Missing or malformed email
+Row 18 | Column: Email | Issue: Missing or malformed email
+Row 21 | Column: Email | Issue: Missing or malformed email
+Row 23 | Column: Name | Issue: Missing name
+Row 26 | Column: Email | Issue: Missing or malformed email
+Row 28 | Column: Email | Issue: Missing or malformed email
+Row 30 | Column: Name | Issue: Missing name
+Row 32 | Column: Email | Issue: Missing or malformed email
+Row 35 | Column: Name | Issue: Missing name
+Row 37 | Column: Email | Issue: Missing or malformed email
+Row 40 | Column: Name | Issue: Missing name
+Row 42 | Column: Email | Issue: Missing or malformed email
+Row 45 | Column: Name | Issue: Missing name
+Row 47 | Column: Email | Issue: Missing or malformed email
+Row 5 | Column: Country | Issue: Invalid country: Bharat
+Row 16 | Column: Country | Issue: Invalid country: Russsia
+Row 17 | Column: Country | Issue: Invalid country: UAe
+Row 18 | Column: Country | Issue: Invalid country: Hong Kon
+Row 19 | Column: Country | Issue: Invalid country: UK
+Row 21 | Column: Country | Issue: Invalid country: Brazl
+Row 24 | Column: Country | Issue: Invalid country: Bharat
+Row 25 | Column: Country | Issue: Invalid country: USA
+Row 28 | Column: Country | Issue: Invalid country: Egyp
+Row 29 | Column: Country | Issue: Invalid country: Itly
+Row 31 | Column: Country | Issue: Invalid country: Korae
+Row 32 | Column: Country | Issue: Invalid country: Portugl
+Row 33 | Column: Country | Issue: Invalid country: Rusian
+Row 35 | Column: Country | Issue: Invalid country: Swedn
+Row 36 | Column: Country | Issue: Invalid country: Pakisan
+Row 38 | Column: Country | Issue: Invalid country: Singapre
+Row 39 | Column: Country | Issue: Invalid country: Bahrin
+Row 40 | Column: Country | Issue: Invalid country: Itally
+Row 41 | Column: Country | Issue: Invalid country: Polnd
+Row 45 | Column: Country | Issue: Invalid country: Ukrane
+Row 46 | Column: Country | Issue: Invalid country: Egyypt
+Row 48 | Column: Country | Issue: Invalid country: Croata
+Row 49 | Column: Country | Issue: Invalid country: Portugl

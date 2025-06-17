@@ -1,0 +1,70 @@
+Row 0 | Column: Email | Fix: john@example.COM → john@example.com
+Row 2 | Column: Email | Fix: john@example.COM → john@example.com
+Row 3 | Column: Email | Fix: Alex77@Hotmail.com → alex77@hotmail.com
+Row 4 | Column: Email | Fix: nan → None
+Row 7 | Column: Email | Fix: nan → None
+Row 8 | Column: Email | Fix: nan → None
+Row 10 | Column: Email | Fix: nan → None
+Row 13 | Column: Email | Fix: nan → None
+Row 16 | Column: Email | Fix: anna.k@example.COM → anna.k@example.com
+Row 17 | Column: Email | Fix: mohammedgmail.com → None
+Row 18 | Column: Email | Fix: nan → None
+Row 21 | Column: Email | Fix: nan → None
+Row 23 | Column: Email | Fix: hans.m@example.COM → hans.m@example.com
+Row 26 | Column: Email | Fix: nan → None
+Row 28 | Column: Email | Fix: nan → None
+Row 32 | Column: Email | Fix: nan → None
+Row 33 | Column: Email | Fix: nina.p@example.COM → nina.p@example.com
+Row 37 | Column: Email | Fix: nan → None
+Row 40 | Column: Email | Fix: marco.r@example.COM → marco.r@example.com
+Row 42 | Column: Email | Fix: nan → None
+Row 45 | Column: Email | Fix: olga.s@example.COM → olga.s@example.com
+Row 47 | Column: Email | Fix: nan → None
+Row 0 | Column: Country | Fix: Indiia → India
+Row 1 | Column: Country | Fix: United Stated → United States
+Row 3 | Column: Country | Fix: Australa → Australia
+Row 4 | Column: Country | Fix: Fraance → France
+Row 5 | Column: Country | Fix: Bharat → None
+Row 7 | Column: Country | Fix: Cnina → China
+Row 8 | Column: Country | Fix: United Kngdom → United Kingdom
+Row 9 | Column: Country | Fix: United Stated → United States
+Row 10 | Column: Country | Fix: Inda → India
+Row 11 | Column: Country | Fix: Australlia → Australia
+Row 12 | Column: Country | Fix: Spian → Spain
+Row 13 | Column: Country | Fix: United stats → United States
+Row 14 | Column: Country | Fix: Chnia → China
+Row 15 | Column: Country | Fix: Indya → India
+Row 16 | Column: Country | Fix: Russsia → None
+Row 17 | Column: Country | Fix: UAe → None
+Row 18 | Column: Country | Fix: Hong Kon → None
+Row 19 | Column: Country | Fix: UK → None
+Row 20 | Column: Country | Fix: Japn → Japan
+Row 21 | Column: Country | Fix: Brazl → None
+Row 22 | Column: Country | Fix: Australa → Australia
+Row 23 | Column: Country | Fix: Grmany → Germany
+Row 24 | Column: Country | Fix: Bharat → None
+Row 25 | Column: Country | Fix: USA → None
+Row 26 | Column: Country | Fix: Chinna → China
+Row 27 | Column: Country | Fix: United Stated → United States
+Row 28 | Column: Country | Fix: Egyp → None
+Row 29 | Column: Country | Fix: Itly → None
+Row 30 | Column: Country | Fix: Australlia → Australia
+Row 31 | Column: Country | Fix: Korae → None
+Row 32 | Column: Country | Fix: Portugl → None
+Row 33 | Column: Country | Fix: Rusian → None
+Row 34 | Column: Country | Fix: United Stats → United States
+Row 35 | Column: Country | Fix: Swedn → None
+Row 36 | Column: Country | Fix: Pakisan → None
+Row 37 | Column: Country | Fix: Frence → France
+Row 38 | Column: Country | Fix: Singapre → None
+Row 39 | Column: Country | Fix: Bahrin → None
+Row 40 | Column: Country | Fix: Itally → None
+Row 41 | Column: Country | Fix: Polnd → None
+Row 42 | Column: Country | Fix: Spian → Spain
+Row 43 | Column: Country | Fix: Inddia → India
+Row 44 | Column: Country | Fix: United Stated → United States
+Row 45 | Column: Country | Fix: Ukrane → None
+Row 46 | Column: Country | Fix: Egyypt → None
+Row 47 | Column: Country | Fix: Chinna → China
+Row 48 | Column: Country | Fix: Croata → None
+Row 49 | Column: Country | Fix: Portugl → None
